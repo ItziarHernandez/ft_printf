@@ -1,0 +1,23 @@
+# Prerequisites
+*.d
+
+# Objects files
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+
+# Files
+main.c
+.DS_Store
+.vscode
+#.gitignore
